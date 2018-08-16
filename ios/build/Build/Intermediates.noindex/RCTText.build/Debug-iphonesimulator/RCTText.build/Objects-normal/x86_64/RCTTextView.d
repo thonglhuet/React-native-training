@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/Alucard/Desktop/MyDocument/Framgia_project/ReactNative/rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
