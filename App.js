@@ -5,14 +5,12 @@ import { Provider } from 'react-redux';
 import allReducers from './src/reducers';
 
 let composeEnhancers = compose;
-if (__DEV__) {
+if (__DEV__) {//only avaiable on developement 
   composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 }
 
 let store = createStore(allReducers, composeEnhancers());
 import PlaceInputContainer from './src/containers/place_input'
-
-
 
 export default class App extends React.Component {
   render() {
