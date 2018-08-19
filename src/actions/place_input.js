@@ -1,7 +1,7 @@
 import * as types from '../constants';
 
 
-export const additem = (text) => ({
+export const additem = (placeName) => ({
   type: types.ADD_ITEM,
-  text
+  placeName
 });
