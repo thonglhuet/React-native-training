@@ -11,13 +11,14 @@ if (__DEV__) {//only avaiable on developement
 
 let store = createStore(allReducers, composeEnhancers());
 import PlaceInputContainer from './src/containers/place_input'
-
+import PlaceList from './src/containers/place_list';
 export default class App extends React.Component {
   render() {
     return (
       <Provider store={store}>
         <View style={styles.container}>
           <PlaceInputContainer/>
+          <PlaceList/>
         </View>
       </Provider>
     );
