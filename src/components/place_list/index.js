@@ -1,18 +1,21 @@
-import React, {Component} from 'react';
-import {View, FlatList, StyleSheet} from 'react-native';
+import React, { Component } from 'react';
+import { View, FlatList, StyleSheet, Modal, Text, TouchableHighlight } from 'react-native';
 import VisibleItem from './_visible_item';
 
 export default class PlaceList extends Component {
   constructor(props) {
     super(props);
   }
-  render(){
-    const {place} = this.props;
-    return(
+
+  render() {
+    const { place, deleteitem } = this.props;
+    return (
+      <View style={styles.flatlist}>
         <FlatList style={styles.flatlist} contentContainerStyle={styles.contentContainer}
           data={place.placeLists}
-          renderItem={ ({item}) => <VisibleItem placeName={item.placeName} placeImg={item.img} placeKey={item.key}/>}
+          renderItem={({ item }) => <VisibleItem deleteItem={deleteitem} placeName={item.placeName} placeImg={item.img} placeKey={item.key} />}
         />
+      </View>
     )
   }
 }

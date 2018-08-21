@@ -1,9 +1,9 @@
-import * as types from '../constants';
+import * as types from "../constants";
 
 const initstate = {
   placeLists: [],
   currentSelected: null
-}
+};
 
 export default (state = initstate, action) => {
   switch (action.type) {
@@ -15,8 +15,15 @@ export default (state = initstate, action) => {
           img: "https://c1.staticflickr.com/5/4096/4744241983_34023bf303_b.jpg",
           placeName: action.placeName
         })
-      }
+      };
+    case types.DELETE_ITEM:
+      return {
+        ...state,
+        placeLists: state.placeLists.filter((placeitem) => {
+          placeitem.key !== action.key
+        })
+      };
     default:
       return initstate;
   }
-}
+};
